@@ -2,6 +2,8 @@
 
 [Cetak Biru](./cetak_biru_kota_cerdas_nusantara.pdf)
 
+![image](https://github.com/IbuKotaNusantara/ibukotanusantara.github.io/assets/11188109/73d8cb03-4126-4a57-acee-d51ca13e8e62)
+
 ## Kebutuhan Utama
 1. Mengedepankan Active Mobility
 2. Diutamakan pejalan kaki, sepeda, scooter dahulu baru kendaran mobil
